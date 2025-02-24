@@ -1,3 +1,7 @@
+# Questo è il mio primo commit
+# by Susanna
+
+
 def mostra_menu():
     """
     Mostra il menu delle operazioni disponibili
