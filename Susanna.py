@@ -1,5 +1,6 @@
 # Questo è il mio primo commit
 # by Susanna
+# Ciao a tutti
 
 
 def mostra_menu():
